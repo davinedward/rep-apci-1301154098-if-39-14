@@ -1,0 +1,6 @@
+program hello;// ubah menjadfi program APCI-1301154098-if 39-14 
+uses Crt;
+begin 
+clrsr; 
+  writeln('Hello');//untuk mengeluarkan string'hello' di layar 
+End.
